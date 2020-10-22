@@ -1,7 +1,7 @@
-##Nombre del Autor: Nicolás Ignacio Toledo Toledo
-##Correo Institucional: nicolas.toledo@alumnos.uv.cl
+## Nombre del Autor: Nicolás Ignacio Toledo Toledo
+## Correo Institucional: nicolas.toledo@alumnos.uv.cl
 
-#Diseño de la solucion
+# Diseño de la solucion
 
 Primero, la implementacion de una clase main es fundamental para que el codigo en c funcione de manera adecuada.
 La funcion Main, está encargada de tener un While(1) corriendo infinitamente (o hasta que el proceso muera), 
